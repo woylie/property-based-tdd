@@ -634,6 +634,8 @@ This works exactly as the `output date ranges do not overlap` test, except that 
 
 The faulty implementation of `merge/1` we added earlier will finally fail this test. We can now revert the function to the correct implementation to make the test suite pass again.
 
+You can find the final version on [Github](https://github.com/woylie/property-based-tdd).
+
 ## Conclusion
 
 We started with a simple task and a basic property test and gradually built on that to create a test suite that should hopefully thoroughly cover the requirements.
