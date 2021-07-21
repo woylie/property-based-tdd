@@ -3,4 +3,4 @@
 This repository contains the blog article "Property-Based Test-Driven
 Development in Elixir" and the final code.
 
-You can find the article in [article.md](article.md).
+Read the article [here](https://www.mathiaspolligkeit.de/dev/property-based-test-driven-development-in-elixir/).
